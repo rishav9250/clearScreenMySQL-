@@ -1,2 +1,1 @@
-# clearScreenMySQL-
-clear screen in MySQL
+mysql> SYSTEM CLS; 
